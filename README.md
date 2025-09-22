@@ -95,5 +95,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bishal312/<REPO>/main/assets/header.gif" alt="Bishal header animation" width="780"/>
+  <img src="https://raw.githubusercontent.com/bishal312/bishal312/blob/output/github-contribution-grid-snake2.svg" alt="snake animation"/>
 </p>
+
