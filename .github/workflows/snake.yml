@@ -1,9 +1,12 @@
 name: Generate Snake Game 🐍
 
 on:
-  schedule:                # Runs every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:       # Manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write    # ✅ allow the bot to push to the repo
 
 jobs:
   build:
