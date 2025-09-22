@@ -84,6 +84,3 @@
 
 ![snake animation](https://github.com/bishal312/bishal312/blob/output/github-contribution-grid-snake2.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bishal312/bishal312/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
