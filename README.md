@@ -7,19 +7,17 @@
   <h3 align="center">A passionate Backend developer from Nepal — Backend • MERN • DevOps • Music Producer</h3>
 </p>
 
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bishal312&label=Profile%20views&color=0e75b6&style=flat" alt="bishal312" />
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="bisha312 trophies" /></a>
 </p>
-
----
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/bishalm626d">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bishal312/bishal312/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 ### 🔭 Current Work
 - I’m currently working on **[Haat ma kanun](http://haatmakanun.vercel.app/)**
 
@@ -78,12 +76,14 @@
 ---
 
 ### ☕ Support
+<p align="left">
+  <a href="https://www.buymeacoffee.com/bishalm626d">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+  </a>
+</p>
 <br clear="left"/>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bishal312/bishal312/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 
