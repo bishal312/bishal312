@@ -71,7 +71,7 @@
 </p>
 
 ---
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/bishal312/bishal312/blob/output/github-contribution-grid-snake2.svg)
 
 ### ☕ Support
 <p align="left">
