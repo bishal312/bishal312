@@ -12,7 +12,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bishal312&label=Profile%20views&color=0e75b6&style=flat" alt="bishal312" />
   &nbsp;&nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="bisha312 trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="bisha312 trophies" /></a>
 </p>
 
 <br/>
@@ -67,14 +69,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="trophies" />
 </p>
 
-<p align="left">
-  <!-- Contribution snake / activity — fun dynamic SVG -->
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</p>
 
 ---
 
