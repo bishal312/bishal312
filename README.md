@@ -14,6 +14,9 @@
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="bisha312 trophies" /></a>
 </p>
+
+<br/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bishal312/bishal312/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
