@@ -71,7 +71,6 @@
 </p>
 
 ---
-![snake animation](https://github.com/bishal312/bishal312/blob/output/github-contribution-grid-snake2.svg)
 
 ### ☕ Support
 <p align="left">
@@ -82,6 +81,7 @@
 <br clear="left"/>
 
 ---
+![snake animation](https://github.com/bishal312/bishal312/blob/output/github-contribution-grid-snake2.svg)
 
 ## ✅ Notes about animations (why some animations fail)
 1. **Third-party dynamic SVG services** (like some typing-SVG endpoints) sometimes go down, are rate-limited, or blocked by GitHub content/security changes — which is why your typing animation might not show up reliably.  
@@ -90,11 +90,11 @@
 ### How to add a guaranteed working animated header (2 steps)
 1. Add `assets/header.gif` to your repository (create a small GIF that shows your typing/gradient/name).  
 2. In `README.md` use this tag (replace `<REPO>` with your repo name):
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bishal312/bishal312/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 ```html
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bishal312/bishal312/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
