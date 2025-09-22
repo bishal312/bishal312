@@ -49,7 +49,7 @@
 <p align="left">
   <a href="mailto:bishalm626@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
   &nbsp;
-  <a href="https://www.youtube.com/c/bishal](https://www.youtube.com/@Bsal_K_Magar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
+  <a href="https://www.youtube.com/@Bsal_K_Magar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/bishal-kunwar-magar-301225267" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
