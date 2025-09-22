@@ -38,7 +38,7 @@
   &nbsp;
   <a href="https://www.youtube.com/c/bishal" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/bishal-kunwar-magar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/bishal-kunwar-magar-301225267" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
 ---
@@ -63,7 +63,11 @@
 
 <p align="left">
   <!-- Contribution snake / activity — fun dynamic SVG -->
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 ---
