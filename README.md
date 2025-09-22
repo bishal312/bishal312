@@ -71,6 +71,7 @@
 </p>
 
 ---
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ### ☕ Support
 <p align="left">
@@ -91,7 +92,7 @@
 2. In `README.md` use this tag (replace `<REPO>` with your repo name):
 ```html
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bishal312/<REPO>/main/assets/header.gif" alt="Bishal header animation" width="780"/>
