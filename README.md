@@ -15,6 +15,11 @@
 
 ---
 
+<p align="left">
+  <a href="https://www.buymeacoffee.com/bishalm626d">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+  </a>
+</p>
 ### 🔭 Current Work
 - I’m currently working on **[Haat ma kanun](http://haatmakanun.vercel.app/)**
 
@@ -73,11 +78,6 @@
 ---
 
 ### ☕ Support
-<p align="left">
-  <a href="https://www.buymeacoffee.com/bishalm626d">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
-  </a>
-</p>
 <br clear="left"/>
 
 ---
