@@ -90,6 +90,9 @@
 1. Add `assets/header.gif` to your repository (create a small GIF that shows your typing/gradient/name).  
 2. In `README.md` use this tag (replace `<REPO>` with your repo name):
 ```html
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bishal312/<REPO>/main/assets/header.gif" alt="Bishal header animation" width="780"/>
 </p>
