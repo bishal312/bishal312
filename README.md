@@ -35,7 +35,7 @@
 - TypeScript · Chat integration · Three.js · WebRTC 
 
 ### 💬 Ask me about
-- MERN Stack, Node.js backend architecture, APIs, databases, and DevOps pipelines
+- MERN Stack, Node.js backend architecture, APIs and databases
 
 ### 📫 Contact
 - Email: **bishalm626@gmail.com**
