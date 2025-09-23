@@ -32,7 +32,7 @@
 - I’m currently working on **[Haat ma kanun](http://haatmakanun.vercel.app/)**
 
 ### 🌱 Currently learning
-- TypeScript · Chat integration · Three.js · WebRTC · Cloud/Infra
+- TypeScript · Chat integration · Three.js · WebRTC 
 
 ### 💬 Ask me about
 - MERN Stack, Node.js backend architecture, APIs, databases, and DevOps pipelines
