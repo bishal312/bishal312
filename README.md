@@ -70,9 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal312&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="trophies" />
-</p>
 
 
 ---
