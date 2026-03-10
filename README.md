@@ -15,11 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox&no-frame=true&margin-w=15"/>
-  </a>
+    <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishal312&show_icons=true&theme=gruvbox" />
+  </a>
 </p>
 
 <br/>
