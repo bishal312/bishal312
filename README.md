@@ -18,6 +18,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox&no-frame=true&margin-w=15"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishal312&show_icons=true&theme=gruvbox" />
+</p>
 
 <br/>
 
