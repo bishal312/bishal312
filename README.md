@@ -10,15 +10,13 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishal312&label=Profile%20views&color=0e75b6&style=flat" alt="bishal312" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <br/>
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="bisal312's trophies/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=bishal312&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox&no-frame=true&margin-w=15"/>
+  </a>
 </p>
 
 <br/>
