@@ -14,7 +14,11 @@
   &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="bisha312 trophies" /></a>
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bishal312&theme=gruvbox" alt="bisal312's trophies/>
+  </a>
+</p>
 </p>
 
 <br/>
