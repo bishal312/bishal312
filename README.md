@@ -31,7 +31,7 @@
 
 
 ### 🔭 Current Work
-- I’m currently working on **[Haat ma kanun](http://haatmakanun.vercel.app/)**
+- I’m currently working on **[Soundy / Soundplay](https://soundy-production.up.railway.app/)**
 
 ### 🌱 Currently learning
 - TypeScript · Chat integration · Three.js · WebRTC 
